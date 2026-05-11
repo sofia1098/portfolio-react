@@ -1,3 +1,24 @@
+# Sofia Nuñez — Portfolio
+
+Portfolio web desarrollado con React, Vite y Tailwind CSS.
+
+El proyecto fue creado para mostrar trabajos de ilustración, tatuaje y desarrollo web en una interfaz simple, visual y responsive.
+
+## Tecnologías
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+
+## Características
+
+- Diseño responsive
+- Navegación simple
+- Galería de imágenes
+- Animaciones y efectos hover
+- Estructura modular con componentes
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

@@ -1,4 +1,4 @@
-import AboutImage from "../assets/about-image.png";
+import AboutImage from "../assets/about-image.avif";
 
 export default function About() {
   return (
@@ -11,7 +11,7 @@ export default function About() {
             Hola, soy Sofía
           </h2>
           <p className="mt-4 text-sm sm:text-base leading-relaxed text-white/80">
-            Este un lugar donde comparto mis proyectos, aprendizajes y experiencias en el mundo visual y del desarrollo it. Soy una apasionada de la creatividad y la tecnología, y me encanta explorar nuevas formas de crear. ¡Espero que disfrutes navegando por mi portafolio tanto como yo disfruté creándolo!
+            Este es un lugar donde comparto mis proyectos, aprendizajes y experiencias en el mundo visual y del desarrollo it. Soy una apasionada de la creatividad y la tecnología, y me encanta explorar nuevas formas de crear. ¡Espero que disfrutes navegando por mi portafolio tanto como yo disfruté creándolo!
           </p>
         </div>
 

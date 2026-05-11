@@ -1,4 +1,4 @@
-import TechImage from "../assets/tech-image.png";
+import TechImage from "../assets/tech-image.avif";
 
 import {
   SiTypescript,

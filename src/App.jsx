@@ -1,5 +1,5 @@
 import Navbar from "./components/navbar";
-import Fondo from "./assets/fondo.png";
+import Fondo from "./assets/fondo.avif";
 import About from "./components/about";
 import Tech from "./components/tech";
 import Contact from "./components/contact";

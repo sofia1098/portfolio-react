@@ -2,7 +2,7 @@
 
 Portfolio web desarrollado con React, Vite y Tailwind CSS.
 
-El proyecto fue creado para mostrar trabajos de ilustración, tatuaje y desarrollo web en una interfaz simple, visual y responsive.
+El proyecto fue creado para mostrar trabajos de ilustración y desarrollo web en una interfaz simple, visual y responsive.
 
 ## Tecnologías
 

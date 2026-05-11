@@ -6,7 +6,7 @@ export default function Contact() {
   const socials = [
     {
       label: "GitHub",
-      url: "https://github.com/tuusuario",
+      url: "https://github.com/sofia1098",
       icon: SiGithub,
     },
     {
@@ -17,7 +17,7 @@ export default function Contact() {
 
     {
       label: "LinkedIn",
-      url: "https://linkedin.com/in/tuusuario",
+      url: "https://www.linkedin.com/in/sofia-nunez1/",
       icon: FaLinkedin,
     },
     {

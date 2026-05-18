@@ -40,8 +40,7 @@ export default function Contact() {
 
         {/* Text body*/}
         <p className="text-sm sm:text-base leading-relaxed text-white/70 max-w-md mb-10">
-          Si tenés un proyecto, una idea o simplemente querés ponerte en contacto,
-          encontrás todos mis canales acá abajo.
+          Te dejo mi contacto por si te interesa trabajar conmigo o realizar alguna colaboración.
         </p>
 
         {/* icons */}

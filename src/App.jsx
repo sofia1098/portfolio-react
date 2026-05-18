@@ -4,6 +4,7 @@ import About from "./components/about";
 import Tech from "./components/tech";
 import Contact from "./components/contact";
 import HeroStickers from "./components/hero";
+import Experience from "./components/experience";
 
 function App() {
   return (
@@ -36,6 +37,10 @@ function App() {
 
         <section id="tech">
           <Tech />
+        </section>
+
+        <section id="experience">
+          <Experience />
         </section>
 
         <section id="contact">

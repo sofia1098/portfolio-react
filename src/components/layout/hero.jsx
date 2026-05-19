@@ -1,6 +1,6 @@
 import { useState } from "react";
-import GalleryModal from "./GalleryModal";
-import { heroImages, galleries } from "../data/galleries";
+import GalleryModal from "../GalleryModal";
+import { heroImages, galleries } from "../../data/galleries";
 
 function Sticker({ href, onClick, label, imgSrc, className = "" }) {
   if (!imgSrc) return null;

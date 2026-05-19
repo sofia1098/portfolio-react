@@ -1,7 +1,8 @@
 import { useState } from "react";
-import ModalText from "./modal-text";
-import TattooImage from "../assets/hero-4.avif";
-import IllustrationImage from "../assets/hero-1.avif";
+import ModalText from "../modal-text";
+
+import TattooImage from "../../assets/hero-4.avif";
+import IllustrationImage from "../../assets/hero-1.avif";
 
 
 export default function Experience() {

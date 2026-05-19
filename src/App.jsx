@@ -1,10 +1,10 @@
-import Navbar from "./components/navbar";
+import Navbar from "./components/layout/navbar";
 import Fondo from "./assets/fondo.avif";
-import About from "./components/about";
-import Tech from "./components/tech";
-import Contact from "./components/contact";
-import HeroStickers from "./components/hero";
-import Experience from "./components/experience";
+import About from "./components/layout/about";
+import Tech from "./components/layout/tech";
+import Contact from "./components/layout/contact";
+import HeroStickers from "./components/layout/hero";
+import Experience from "./components/layout/Experience";
 
 function App() {
   return (

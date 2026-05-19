@@ -1,4 +1,4 @@
-import AboutImage from "../assets/about-image.avif";
+import AboutImage from "../../assets/about-image.avif";
 
 export default function About() {
   return (
